@@ -10,6 +10,6 @@ function App() {
        Hi
     </div>
   );
-}
+} 
 
 export default App;
